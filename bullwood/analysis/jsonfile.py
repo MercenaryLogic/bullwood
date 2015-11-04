@@ -1,0 +1,5 @@
+
+class AnalysisFile(object):
+    pass
+
+
